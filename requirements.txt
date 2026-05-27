@@ -1,0 +1,7 @@
+scapy>=2.5.0
+rich>=13.7.0
+colorama>=0.4.6
+nmap>=1.5.0
+tensorflow>=2.13.0  # Para la IA, o usamos onnxruntime que es más ligero
+pyyaml>=6.0
+psutil>=5.9.5
