@@ -35,7 +35,7 @@ text
 
 ### Linux
 ```bash
-git clone https://github.com/tuusuario/Networking-Cli.git
+git clone https://github.com/Falconmx1/Networking-Cli.git
 cd Networking-Cli
 chmod +x install.sh
 sudo ./install.sh
