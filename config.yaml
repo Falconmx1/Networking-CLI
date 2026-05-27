@@ -1,0 +1,23 @@
+# Networking-CLI Configuration File
+# Edita según tus necesidades
+
+# Interfaz de red por defecto
+default_interface: "eth0"
+
+# Umbral de confianza para IA (0.0 a 1.0)
+ai_threshold: 0.75
+
+# Máximo de puertos a escanear (si es mayor, IA decide)
+max_ports: 1000
+
+# Timeout para conexiones (segundos)
+timeout: 2
+
+# Nivel de logging: DEBUG, INFO, WARNING, ERROR
+log_level: "INFO"
+
+# Máximo de threads para escaneo
+max_threads: 100
+
+# Capturar paquetes con Scapy (true/false)
+use_scapy: true
